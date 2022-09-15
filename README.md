@@ -1,5 +1,3 @@
-[![solved.ac.tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=thdgnsrl123)](https://solved.ac/thdgnsrl123)
-
 ![SSong-develop's GitHub stats](https://github-readme-stats.vercel.app/api?username=SSong-develop&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SSong-develop&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
